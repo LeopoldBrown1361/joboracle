@@ -1,0 +1,87 @@
+About AESC US LLC 
+AESC is a global leader in the development and manufacturing of high-performance batteries for zero-emission electric vehicles and energy storage systems. Founded in Japan in 2007 and headquartered in Yokohama, AESC has been building manufacturing capabilities around the world in the U.S., U.K., Europe, Japan and China to serve key markets and leading customers locally for over 14 years. Today, AESC has become the partner of choice for the world’s leading OEMs and energy storage providers in North America, Europe, and Asia. Its advanced technology powers over one million electric vehicles and provides more than 15GWh of installed capacity for battery energy systems in over 60 countries.
+
+AESC is expanding its footprint in the United States with gigafactories in Kentucky, South Carolina, and Tennessee to meet the growing demand for EV and BESS batteries and strengthen its presence in the North American market. AESC's Tennessee gigafactory in Smyrna, which has been operational and supplying electric vehicle batteries for the Nissan LEAF since 2012, was retooled in 2025 and now produces batteries for Energy Storage Systems. The South Carolina gigafactory in Florence will supply next generation cells for BMW starting in 2026. The Kentucky gigafactory in Bowling Green will supply high-performance batteries and components for other OEMs. AESC is committed to our local communities where it is making investments, creating jobs, and supporting local charities. 
+
+About the Role
+The IT Systems Support Analyst (IT Help Desk) is responsible for support of End-User Computing (EUC) Endpoints including Desktop, laptop, mobile device and assisting Sr. Engineers with virtual environment when requested.  This role Works alongside Systems Engineers—following technical direction from Sr. Systems staff in terms of next steps on projects and operational support. Collaborates cross-functionally with Network Engineers and Infrastructure Engineers to help support projects and provide operational support for network and infrastructure systems as needed. Monitor and maintain support helpdesk and provide end user support in a timely fashion. Monitors and maintains new user creation and deployment of related hardware.
+
+What You Will Do 
+Works cross-functionally with other Systems staff, MFG, MNT, and QA staff to identify opportunities for continuous improvement in safety, quality, delivery, cost for our production. 
+Provides 1st level support and technical direction to Systems Maintenance staff for MFG endpoint device issues. 
+Performs a variety of skilled work in the adjustment, repair, and improvement of IT Systems 
+Communicates status of current helpdesk support tasks with estimated completion times 
+Supports system updates, changes, and improvement activities.    
+Demonstrates data driven problem solving methodology. 
+Specific Job functions including (but not limited to) the following: 
+1st level End-user Desktop Support Including the following: 
+Laptop/PC build using Manage Engine Endpoint Central 
+Initial Active Directory Account creation (using provided scripts), adding user to appropriate Active Directory groups, troubleshooting Group Policy updates for users.
+Initial help for getting users logged on, setting up Outlook, Teams, etc. confirming access to shared folders, printers, etc. 
+Troubleshooting laptop and desktop deployments with hardware and software issues, account password resets, General Office 365 issue resolution 
+Updating, capturing, and deploying images with manage engine. 
+Monitor and address helpdesk tickets, staying within defined SLA, while communicating to the end user. 
+End-user Mobile Device Management Including the following: 
+Office 365 and other mobile app deployment/testing/support 
+Mobile device deployment to end-users including processing phone orders/upgrades, initial phone provisioning/setup, phone number port in/out, and initial end-user setup/training. 
+Coordinate Mobile device support with carrier on behalf of end-user. 
+Initial help for getting user logged on, setting up Outlook, Teams, etc. confirming access to company data, etc. on mobile device. 
+Troubleshooting mobile device issues and coordinating support with carrier or manufacturer if necessary.
+General Sys Admin duties including (but not limited to) 
+General Office 365 User/Mailbox/Group/Distribution List Admin 
+General Active Directory User/Group/computer management (On-Prem) 
+Supporting Group Policies for users and workstations  
+Deploying OS/apps using Manage Engine 
+Testing/deploying/supporting Manage Engine OS updates, deployment packages, and app packages.
+What We Offer 
+Welcome to AESC, where you'll have the opportunity to tackle the world's most fascinating challenges alongside exceptionally talented individuals who are driven to make a difference. We strive to ensure that our employees are well taken care of, enabling them to focus on their work and contribute to our collective mission.
+
+We offer:
+
+Comprehensive compensation packages including a competitive salary and a rewarding bonus program.
+An inclusive and diverse work environment that fosters and encourages professional and personal development.
+Highly automated, clean, safe, and temperature-controlled production environment
+Medical, Dental and Vision Insurance
+HSA and Flexible Spending Accounts
+401K with company match
+Life Insurance (Company paid and additional voluntary life available)
+Paid Vacation and 14 Paid Holidays
+Short term and long-term disability coverage (Company Paid)
+Tuition reimbursement
+
+Qualifications
+What You Need
+Bachelor’s Degree in an Information Systems or related Computer Engineering program preferred.  Will consider equivalent related college or technical courses. 
+Prior experience in an IT Desktop Support or Sys Admin role in a similar function preferred.
+Ability to work independently with minimal supervision to troubleshoot, modify, and support EUC environments. 
+Ability to troubleshoot, modify, and assist System Engineers with virtual environment that supports EUC devices. 
+Must be a self-motivated individual with good written and verbal communication skills.
+Must have good understanding of root cause analysis (RCA), problem solving techniques for issue resolution. 
+Familiar with Office 365 applications and Administration, and knowledge of Windows 10/11, Server 2016/2019/2022.   
+Experience in information gathering, tracking, and consolidation.
+Works well in a highly collaborative fast-paced environment with cross-functional teams.
+Ability to apply technical problem-solving skills to solve real world problems.
+Excellent verbal and written communication skills; interpersonal skills; Experience with contributing to team problem solving. 
+Understands and follows all standards of IATF16949 and VDA 6.3 quality standards. (training and awareness will be provided for those who are not familiar with these standards)
+Understands and follows all standards of ISO14001 environmental standards. (training and awareness will be provided for those who are not familiar with these standards)
+Application Process 
+Even if you don't meet every requirement, we encourage you to apply. Your application allows us to learn more about you and find potential fits within our team. We strive to respond to all applicants promptly, though times may vary with submission volume. If you don't receive an immediate response, it doesn't reflect on your candidacy; we'll keep your application for future opportunities. Thank you for your patience and enthusiasm as we improve our application process.
+
+Equal Employment Opportunity 
+At AESC, we are committed to providing Equal Employment Opportunity (EEO) to all individuals. We participate in E-Verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S Join us in our passion to design, manufacture, and sell high-performance products, contributing to a sustainable and zero-carbon emission future. 
+
+Physical Requirements
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodation may be made to enable otherwise qualified individuals with disabilities to perform the essential job functions.
+
+Ability to sit for extended periods of time.
+Ability to read, write, speak, hear; stand; walk; use hands to finger, handle, or feel; reach and lift with hands and arms frequently throughout the day.
+Required to occasionally lift, push, pull and/or move up to 10 pounds and occasionally required to lift, push, pull and/or move up to 35 pounds.
+Work Environment
+The work environment is primarily an automated manufacturing plant with a concrete floor and is characterized by some temperature extremes, moderate noise, and forklift traffic. The individual must be able to perform all essential functions as appropriate on the plant floor, in meetings, and with employees, management, customers and suppliers.
+
+Candidate must perform the essential duties and responsibilities with or without reasonable accommodation efficiently and accurately, and without causing significant safety threat to self or others. The statements made herein are intended to describe the general nature and level of work being performed by employees assigned to this job classification. They are not intended to be construed as an exhaustive and inclusive list of all responsibilities, duties, and/or skills required of personnel so classified.
+
+Hiring is contingent upon successful completion of drug screen and background check. AESC US LLC is a drug-free workplace.
+
+Travel
+Occasional domestic and international travel required.
